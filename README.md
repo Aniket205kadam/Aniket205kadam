@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kafka, React JS**
 
-- 👨‍💻 All of my projects are available at [Click here]([https://aniketkadam.dev](https://aniket-kadam.vercel.app/))
+- 👨‍💻 All of my projects are available at [aniket-kadam.vercel.app](https://aniket-kadam.vercel.app/)
 
 - 💬 Ask me about **Java, Spring Boot**
 
