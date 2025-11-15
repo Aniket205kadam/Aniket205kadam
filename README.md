@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **aniketrkadam205@gmail.com**
 
-- 📄 Know about my experiences [resume]([https://docs.google.com/document/d/1bj4XqeFIa2ziDiExS_D2N1aNgFmf84I358Xt0bEpAEw/edit?usp=sharing](https://docs.google.com/document/d/1VVLCgPCbX9BdMKYZxyIY-MhWaWLg4nKB-yre0S8g59E/edit?usp=sharing))
+- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1VVLCgPCbX9BdMKYZxyIY-MhWaWLg4nKB-yre0S8g59E/edit?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
